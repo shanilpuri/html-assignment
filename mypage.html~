@@ -1,0 +1,17 @@
+body {
+    background: url("images/01_Affinegy_home.png") repeat-x scroll center top #FFFFFF;
+    color: #666666;
+    font-family: 'Helvetica',Arial,Sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.headerbg {
+    background: url("images/header.png") repeat-x scroll center top transparent;
+    height: 132px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+}
